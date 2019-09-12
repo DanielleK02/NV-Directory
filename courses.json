@@ -1,0 +1,1092 @@
+[
+  {
+    "Department": "English",
+    "Teacher": "Benard, Sarah",
+    "Course": "English 10"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Benard, Sarah",
+    "Course": "Junior Humanities"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Hazel, Keevan",
+    "Course": "Debate"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Hazel, Keevan",
+    "Course": "English 9"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Hazel, Keevan",
+    "Course": "Senior Comp & Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Huey, Sarah",
+    "Course": "Art of Photojournalism"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Huey, Sarah",
+    "Course": "English 10"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Huey, Sarah",
+    "Course": "Yearbook"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Huey, Sarah",
+    "Course": "Intro to Journalism"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Huey, Sarah",
+    "Course": "Journalism"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Musgrove, Heather",
+    "Course": "English 9"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Musgrove, Heather",
+    "Course": "Senior Comp & Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Nowak, Karolynn",
+    "Course": "American Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Nowak, Karolynn",
+    "Course": "AP English Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Nowak, Karolynn",
+    "Course": "English 10"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Rauscher, Elizabeth",
+    "Course": "English 9"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Rauscher, Elizabeth",
+    "Course": "Honors English 9"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Schloegl, Amy",
+    "Course": "American Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Schloegl, Amy",
+    "Course": "Honors English 10"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Seifert, BethAnn",
+    "Course": "English 10"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Seifert, BethAnn",
+    "Course": "Senior Comp & Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Stefango, Jilian",
+    "Course": "AP English Lang"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Stefango, Jilian",
+    "Course": "CCP Comp & Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Wachowiak, Don",
+    "Course": "American Lit"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Wachowiak, Don",
+    "Course": "Drama"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Wachowiak, Don",
+    "Course": "Public Speaking"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Wachowiak, Don",
+    "Course": "Theatre Workshop"
+  },
+  {
+    "Department": "English",
+    "Teacher": "Warnott, Emily",
+    "Course": "ESL English"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Christy, Greg",
+    "Course": "AP Calculus (BC)"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Christy, Greg",
+    "Course": "AP Statistics"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Christy, Greg",
+    "Course": "Statistics"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Eckhart, John",
+    "Course": "AP Calculus (AB)"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Eckhart, John",
+    "Course": "Geometry"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Eckhart, John",
+    "Course": "Honors Pre Calculus"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "France, George",
+    "Course": "Geometry (2B)"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Jensen, Kathy",
+    "Course": "College Prep Math"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Jensen, Kathy",
+    "Course": "Geometry"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Jensen, Kathy",
+    "Course": "Integrated Algebra"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Kwiatkowski, Bridget",
+    "Course": "Honors Algebra 2"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Kwiatkowski, Bridget",
+    "Course": "Pre Calculus"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "McAlees, Deanna",
+    "Course": "Algebra 1"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "McAlees, Deanna",
+    "Course": "Algebra 2"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "McAlees, Deanna",
+    "Course": "Integrated Algebra 2"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Mikolajczyk, Amy",
+    "Course": "Geometry"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Mikolajczyk, Amy",
+    "Course": "Honors Geometry"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Sayre, Sarah",
+    "Course": "Algebra 1"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Sayre, Sarah",
+    "Course": "Integrated Geometry"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Sayre, Sarah",
+    "Course": "Intermediate Algebra"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Shoemaker, Dennis",
+    "Course": "Algebra 2"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Shoemaker, Dennis",
+    "Course": "Statistics"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Greg, Silm",
+    "Course": "Algebra 1 (2B)"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Greg, Silm",
+    "Course": "Pre Calculus"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Smith, Phil",
+    "Course": "Algebra 1"
+  },
+  {
+    "Department": "Math",
+    "Teacher": "Smith, Phil",
+    "Course": "Algebra 2 (2B)"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Bogue, Michelle",
+    "Course": "AP Environmental Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Bogue, Michelle",
+    "Course": "Environmental Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Diehl, Meredith",
+    "Course": "Biology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Diehl, Meredith",
+    "Course": "Honors Biology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Engel, Jon",
+    "Course": "AP Physics"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Engel, Jon",
+    "Course": "Astronomy"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Engel, Jon",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Ireland, Kristen",
+    "Course": "Forensics"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Ireland, Kristen",
+    "Course": "Honors Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Ireland, Kristen",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Janecko, Erin",
+    "Course": "Biology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Janecko, Erin",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Keller, Eric",
+    "Course": "Anatomy"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Keller, Eric",
+    "Course": "Biology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Keller, Eric",
+    "Course": "Cos Anatomy"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Keller, Eric",
+    "Course": "Honors Anatomy"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Keller, Eric",
+    "Course": "Med Tech Anatomy"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Nelson, Kathryn",
+    "Course": "AP Seminar"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Nelson, Kathryn",
+    "Course": "AP Research"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Nelson, Kathryn",
+    "Course": "Honors Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Nelson, Kathryn",
+    "Course": "Honors Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "O'Shea, Amanda",
+    "Course": "Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "O'Shea, Amanda",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Roth, Andy",
+    "Course": "AP Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Roth, Andy",
+    "Course": "Honors Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Stewart, Lauren",
+    "Course": "Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Stewart, Lauren",
+    "Course": "Geology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Stewart, Lauren",
+    "Course": "Med Tech Chemistry"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Stewart, Lauren",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Werner, Paula",
+    "Course": "AP Biology"
+  },
+  {
+    "Department": "Science",
+    "Teacher": "Werner, Paula",
+    "Course": "Honors Biology"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Blakeman, Brian",
+    "Course": "American History"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Blakeman, Brian",
+    "Course": "AP US History"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Czerniakowski, Mike",
+    "Course": "American History"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Czerniakowski, Mike",
+    "Course": "World Studies"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Dubiel, Dan",
+    "Course": "American History"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Gess, Emma",
+    "Course": "World Studies"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Kwiatkowski, Steve",
+    "Course": "American Government"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Kwiatkowski, Steve",
+    "Course": "Psychology"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Kwiatkowski, Steve",
+    "Course": "Sociology"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Lafevre, Perry",
+    "Course": "AP US Government"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Lafevre, Perry",
+    "Course": "Contemporary Law"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Lafevre, Perry",
+    "Course": "Geography"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Malcolm, Ian",
+    "Course": "American Government"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Malcolm, Ian",
+    "Course": "AP Economics"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Malcolm, Ian",
+    "Course": "AP World History"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Rhine, Sarah",
+    "Course": "AP Psychology"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Rofkar, Carolyn",
+    "Course": "Honors World Studies"
+  },
+  {
+    "Department": "Social Studies",
+    "Teacher": "Rofkar, Carolyn",
+    "Course": "World Studies"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Blue, Tami",
+    "Course": "Interactive Media 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Blue, Tami",
+    "Course": "Interactive Media 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Blue, Tami",
+    "Course": "Intro to Visual Technology"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Blue, Tami",
+    "Course": "Today's Technology"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Cafferty, Melissa",
+    "Course": "Health Careers Foundation"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Cafferty, Melissa",
+    "Course": "Med Tech 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Cafferty, Melissa",
+    "Course": "Med Tech 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Martin, Andrea",
+    "Course": "Financial Accounting"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Martin, Andrea",
+    "Course": "NV Software Apps"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Martin, Andrea",
+    "Course": "Business Tech 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Martin, Andrea",
+    "Course": "Business Tech 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Martin, Andrea",
+    "Course": "Intro to Education"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Eickholt, Ryan",
+    "Course": "Education & Training 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Eickholt, Ryan",
+    "Course": "Education & Training 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Buck (Fair), Holly",
+    "Course": "Cosmetology Foundations"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Buck (Fair), Holly",
+    "Course": "Cosmetology 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jude, Chris",
+    "Course": "Cosmetology 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jude, Chris",
+    "Course": "Cosmetology 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jump, Marc",
+    "Course": "Computer Aided Design"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jump, Marc",
+    "Course": "Engineering Applications"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jump, Marc",
+    "Course": "Engineering Design"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Jump, Marc",
+    "Course": "Intro to Alternative Energy"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Poiry, Kadee",
+    "Course": "Child Development"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Poiry, Kadee",
+    "Course": "Culinary Arts Fundamentals"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Poiry, Kadee",
+    "Course": "Personal Wellness"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Poiry, Kadee",
+    "Course": "Principles of Food"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Reed, Ryan",
+    "Course": "Engineering Applications"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Reed, Ryan",
+    "Course": "Engineering 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Reed, Ryan",
+    "Course": "Engineering 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Reed, Ryan",
+    "Course": "3D Modeling"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Sayre, Pat",
+    "Course": "Business Foundations"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Sayre, Pat",
+    "Course": "Business Tech 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Sayre, Pat",
+    "Course": "Intro to Marketing"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Sayre, Pat",
+    "Course": "Money Management"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Word, John",
+    "Course": "AP Computer Science"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Word, John",
+    "Course": "Intro to Computer Programming"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Word, John",
+    "Course": "Honors Comp. Programming 1"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Word, John",
+    "Course": "Honors Comp. Programming 2"
+  },
+  {
+    "Department": "Career Tech",
+    "Teacher": "Word, John",
+    "Course": "2D Game Design"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Creech, Ryan",
+    "Course": "AP Art History"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Creech, Ryan",
+    "Course": "Art Foundations"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Creech, Ryan",
+    "Course": "Intermed 3D Design"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Creech, Ryan",
+    "Course": "Honors Senior Studio 3D"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Seal-Roth, Terri",
+    "Course": "Art Foundations"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Seal-Roth, Terri",
+    "Course": "2D Design"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Seal-Roth, Terri",
+    "Course": "Intermediate 2D"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Seal-Roth, Terri",
+    "Course": "H Senior Studio 2D"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Zunk, Emily",
+    "Course": "Adaptive Art"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Zunk, Emily",
+    "Course": "Art Appreciation"
+  },
+  {
+    "Department": "Art",
+    "Teacher": "Zunk, Emily",
+    "Course": "3D Design"
+  },
+  {
+    "Department": "Physical Education",
+    "Teacher": "Briggs, David",
+    "Course": "Physical Education"
+  },
+  {
+    "Department": "Physical Education",
+    "Teacher": "Donnelly, Tracy",
+    "Course": "Heatlh"
+  },
+  {
+    "Department": "Physical Education",
+    "Teacher": "Donnelly, Tracy",
+    "Course": "Physical Education"
+  },
+  {
+    "Department": "Physical Education",
+    "Teacher": "Steele, Benjamin",
+    "Course": "Health"
+  },
+  {
+    "Department": "Physical Education",
+    "Teacher": "Steele, Benjamin",
+    "Course": "Physical Education"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Campbell, Michael",
+    "Course": "Spanish 2"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Campbell, Michael",
+    "Course": "Honors Spanish 3"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Courts, Betzabeth",
+    "Course": "Spanish 1"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Courts, Betzabeth",
+    "Course": "Honors Spanish 3"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Fischer, Claudia; see me periods 2 or 5",
+    "Course": "French 2"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Fischer, Claudia; see me periods 2 or 6",
+    "Course": "Honors French 3"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Holt, Kay",
+    "Course": "Spanish 1"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Jurski, Lindsey",
+    "Course": "AP Spanish"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Jurski, Lindsey",
+    "Course": "Honors Spanish 4"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Jurski, Lindsey",
+    "Course": "Spanish 2"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Liske, Kelsey",
+    "Course": "AP French"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Liske, Kelsey",
+    "Course": "Honors French 4"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Liske, Kelsey",
+    "Course": "Honors French 3"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "McElroy, Kimberly",
+    "Course": "French 1"
+  },
+  {
+    "Department": "World Language",
+    "Teacher": "Schlagetter, Whitney",
+    "Course": "French 2"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "Acappella Choir"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "AP Music Theory"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "Harmony Road Show"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "Pop Music"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "Symphonic Choir"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Davis, Jeremy",
+    "Course": "Women's Choir"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Adams, Carter",
+    "Course": "Band Aux."
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Adams, Carter",
+    "Course": "Concert Band"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Heath, Nathan",
+    "Course": "Jazz Band"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Heath, Nathan",
+    "Course": "Symphonic Band"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Heath, Nathan",
+    "Course": "Wind Ensemble"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Thiel, Pam",
+    "Course": "Academy Orchestra"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Thiel, Pam",
+    "Course": "Chamber Orchestra"
+  },
+  {
+    "Department": "Music",
+    "Teacher": "Thiel, Pam",
+    "Course": "Concert Orchestra"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Barber, Magee",
+    "Course": "Biology"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Barber, Magee",
+    "Course": "Physical Science"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Barber, Magee",
+    "Course": "Science 1A"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Chiapetta, Heather",
+    "Course": "Academic Strategies 1"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Chiapetta, Heather",
+    "Course": "Academic Strategies 3"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Chiapetta, Heather",
+    "Course": "Pragmatics A/B"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Darah, Helena",
+    "Course": "American History"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Darah, Helena",
+    "Course": "E American Studies"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Darah, Helena",
+    "Course": "E World Studies"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Darah, Helena",
+    "Course": "Geometry"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Goebel, Kylie",
+    "Course": "Academic Strategies 2"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Goebel, Kylie",
+    "Course": "Fundamentals of Math"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Goebel, Kylie",
+    "Course": "Integrated Algebra 2"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Goebel, Kylie",
+    "Course": "Math"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Gunther, Gabrielle",
+    "Course": "American History"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Gunther, Gabrielle",
+    "Course": "Fundamentals of Math"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Gunther, Gabrielle",
+    "Course": "Social Studies"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Judge, Christen",
+    "Course": "English 9"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Judge, Christen",
+    "Course": "E English 9"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Kieninger, Katherine",
+    "Course": "American Lit"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Kieninger, Katherine",
+    "Course": "Algebra 2 2B"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Kieninger, Katherine",
+    "Course": "E American Lit"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Langendonk, Amy",
+    "Course": "Algebra 1 2B"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Langendonk, Amy",
+    "Course": "Intro to Algebra"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Langendonk, Amy",
+    "Course": "Geometry"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Loyd, Amy",
+    "Course": "Academic Strategies 2"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Loyd, Amy",
+    "Course": "English 10"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Loyd, Amy",
+    "Course": "E English 10"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Minard, Jessica",
+    "Course": "E English 12"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Minard, Jessica",
+    "Course": "E Government"
+  },
+  {
+    "Department": "Special Education",
+    "Teacher": "Minard, Jessica",
+    "Course": "Senior Comp"
+  }
+]
