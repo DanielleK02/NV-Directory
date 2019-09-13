@@ -18,7 +18,7 @@ let container = document.createElement('div')
 container.innerHTML = courses.map(course =>
 `<div>
 <h3>${course.Course}</h3>
-<h3>Department${course['Department']}</h3>
+<h3>Department: ${course['Department']}</h3>
 <p>${course['Teacher']}</p>
 </div>`
                                   ).join('')
